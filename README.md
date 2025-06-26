@@ -6,14 +6,14 @@ Welcome! This repository contains end-to-end machine learning and data analysis 
 
 ## 📁 Projects
 
-### 1. 📉 [Churn Analysis](./Churn%20Analysis/README.md)
+### 1. 📉 [Customer Churn Predictor](./Customer%20Churn%20Predictor/README.md)
 Predicts whether a telecom customer is likely to churn based on service usage, demographic details, and billing patterns. Includes:
 - Data preprocessing
 - Feature engineering
 - Model building & tuning
 - Visualizations and evaluation
 
-### 2. 💬 [Sentiment Analysis](./Sentiment%20Analysis/README.md)
+### 2. 💬 [Sentiment Analysis on Social Media](./Sentiment%20Analysis%20on%20Social%20Media/README.md)
 Performs sentiment classification on textual data such as reviews or tweets. Includes:
 - Text cleaning and tokenization
 - TF-IDF
